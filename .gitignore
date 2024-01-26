@@ -1,8 +1,10 @@
 hiddenlayer/
 *.pth
 *.caffemodel
+*.mp4
 .idea/
 .ipynb_checkpoints/
 __pycache__
 *.prototxt
 videos/
+.vscode/launch.json

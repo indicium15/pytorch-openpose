@@ -22,7 +22,7 @@ class Body(object):
 
     def __call__(self, oriImg):
         # scale_search = [0.5, 1.0, 1.5, 2.0]
-        scale_search = [0.5]
+        scale_search = [1.0]
         boxsize = 368
         stride = 8
         padValue = 128
