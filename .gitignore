@@ -2,6 +2,7 @@ hiddenlayer/
 *.pth
 *.caffemodel
 *.mp4
+*.mov
 .idea/
 .ipynb_checkpoints/
 __pycache__
